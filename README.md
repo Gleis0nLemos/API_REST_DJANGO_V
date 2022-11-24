@@ -3,11 +3,11 @@
 
 > Status: Em aprendizagem
 
-## Aula 01: 
+## Aula 02: 
 
-#### Aprendemos que é possível carregar dados iniciais para os modelos através das fixtures. Para isso, dentro de cada APP, podemos criar uma pasta chamada fixtures com dados no formato JSON, por exemplo, e carregá-los executando o comando manage.py loaddata seguido do nome do arquivo que contém os dados.
+#### Aprendemos que o teste de unidade é um método de teste de software no qual os componentes individuais do programa, chamados de unidades, são testados a despeito das dependências necessárias;
 
-#### Aprendemos que existem diferentes formas de testar uma aplicação, como testes manuais, automatizados, testes de unidade, integração, entre outros.
+#### Criamos os testes de unidade para verificar os campos serializados e se o modelo atribuía os valores default quando eram omitidos.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
