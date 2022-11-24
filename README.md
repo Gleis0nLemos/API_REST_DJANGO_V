@@ -3,11 +3,11 @@
 
 > Status: Em aprendizagem
 
-## Aula 02: 
+## Aula 03: 
 
-#### Aprendemos que o teste de unidade é um método de teste de software no qual os componentes individuais do programa, chamados de unidades, são testados a despeito das dependências necessárias;
+#### Criamos os testes que verificam a autenticação de um usuário com base nas políticas de acesso do Django, criando um usuário na base de dados de testes;
 
-#### Criamos os testes de unidade para verificar os campos serializados e se o modelo atribuía os valores default quando eram omitidos.
+#### Verificamos as tentativas de acesso de um usuário com as credenciais corretas e incorretas e realizamos uma requisição GET de um usuário autenticado.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
