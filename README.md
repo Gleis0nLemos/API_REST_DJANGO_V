@@ -3,11 +3,11 @@
 
 > Status: Em aprendizagem
 
-## Aula 04: 
+## Aula 05: 
 
-#### Aprendemos que é possível carregar os dados das fixtures no banco de dados de testes;
+#### Entendemos a importância de documentar uma API para outras pessoas e sistemas. Porém, essa documentação deve seguir o ritmo da implementação de código;
 
-#### Testamos a API da Alura no Postman, verificando se o statuscode da requisição era o esperado. Além disso, verificamos também se o tipo de dado da resposta estava no formato desejado.
+#### Integramos o Swagger no Django Rest Framework e vimos na prática a documentação gerada. Além disso, realizamos alguns testes no Swagger.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
