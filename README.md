@@ -3,11 +3,11 @@
 
 > Status: Em aprendizagem
 
-## Aula 03: 
+## Aula 04: 
 
-#### Criamos os testes que verificam a autenticação de um usuário com base nas políticas de acesso do Django, criando um usuário na base de dados de testes;
+#### Aprendemos que é possível carregar os dados das fixtures no banco de dados de testes;
 
-#### Verificamos as tentativas de acesso de um usuário com as credenciais corretas e incorretas e realizamos uma requisição GET de um usuário autenticado.
+#### Testamos a API da Alura no Postman, verificando se o statuscode da requisição era o esperado. Além disso, verificamos também se o tipo de dado da resposta estava no formato desejado.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
